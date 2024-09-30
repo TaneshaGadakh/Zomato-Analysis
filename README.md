@@ -46,6 +46,7 @@ This repository contains various dashboards and query files that analyze Zomato'
 ![Power BI Dashboard](https://github.com/user-attachments/assets/017f134f-c282-49ec-bfa7-ed9d0424378c)
 
 # Tableau Dashboard
-![Zomato Dashboard Page-1](https://github.com/user-attachments/assets/d44b37ab-a172-4c72-b915-09b6df5d1cdb)
+![Zomato Dashboard Page-1](https://github.com/user-attachments/assets/3ab8e3dd-36f4-4fe2-a19d-9c1271ba3588)
 
-![Zomato Dashboard Page-2](https://github.com/user-attachments/assets/d9ee552e-2e49-4106-9fe1-5e3bf97a5a03)
+![Zomato Dashboard Page-2](https://github.com/user-attachments/assets/ddaad05b-72df-43b6-9528-d3a4cad63662)
+
